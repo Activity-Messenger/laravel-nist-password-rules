@@ -39,8 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/activity-message/laravel-password-exposed-validation-rule",
-            "no-api": true
+            "url": "https://github.com/activity-messager/laravel-password-exposed-validation-rule"
         }
     ]
         
