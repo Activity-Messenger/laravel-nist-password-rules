@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/activity-messager/laravel-password-exposed-validation-rule"
+            "url": "https://github.com/activity-messenger/laravel-password-exposed-validation-rule"
         }
     ]
         
